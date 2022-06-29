@@ -5,4 +5,6 @@
 
 本实验涉及到的压缩包都在这里，`clone`一下就好
 
+`git clone https://github.com/LQS-LQS/xjtu-systemDesign`
+
 使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！
