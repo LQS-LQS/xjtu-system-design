@@ -3,4 +3,13 @@
 这是master分支写的，测试如下：本来master和anotherBranch是一样的，但是master分支改动了，看看anotherBranch为更新改动会有什么问问题
 
 
+<<<<<<< HEAD
 fuck from another
+=======
+master新加的
+
+
+
+
+别人写的
+>>>>>>> master
