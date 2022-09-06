@@ -7,4 +7,4 @@
 
 `git clone https://github.com/LQS-LQS/xjtu-systemDesign`
 
-使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！
+使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！ 
