@@ -1,4 +1,4 @@
-# xjtu-systemDesign
+# xjtu-system-design
 
 **实验已经改了，这个仓库屁用没有了**
 
@@ -8,7 +8,7 @@
 
 本实验涉及到的压缩包都在这里，`clone`一下就好
 
-`git clone https://github.com/LQS-LQS/xjtu-systemDesign`
+`git clone https://github.com/LQS-LQS/xjtu-system-design`
 
 使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！ 
 
