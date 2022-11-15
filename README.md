@@ -1,10 +1,19 @@
-# xjtu-systemDesign
+# xjtu-system-design
+
+**实验已经改了，这个仓库屁用没有了**
+
 西安交通大学大四必修课——计算机系统综合设计实验
 
 本着老师给的文档过于智障，这门课又是个xx课，提供了一份你完全不需要理解任何东西，只需要一步一步来跟着做就行（当然，我也不理解🤣）
 
 本实验涉及到的压缩包都在这里，`clone`一下就好
 
-`git clone https://github.com/LQS-LQS/xjtu-systemDesign`
+`git clone https://github.com/LQS-LQS/xjtu-system-design`
 
-使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！
+使用18.04Ubuntu，如果你是20，还是重装一个18版本的吧！！ 
+
+验收建议：wlx验收，你不需要理解任何东西，验收的时候演示一下能不能跑出最后一个实验的加密程序即可，不需要懂加密算法的流程~~
+
+
+
+说明：如果你觉得哪里需要改进or补充截图等 直接提一个pr就好，请勿私聊，群里@
